@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Snapshot</string>
+    <string name="title_activity_sqlite">SQLiteActivity</string>
+    <string name="title_activity_simple_snaphot">SimpleSnaphotActivity</string>
+    <string name="title_activity_standard_snapshot">StandardSnapshotActivity</string>
+    <string name="title_activity_standard_snap">StandardSnapActivity</string>
+    <string name="title_activity_camera_map_attach_view">CameraMapAttachViewActivity</string>
+    <string name="title_activity_camera_simple">CameraSimple</string>
+    <string name="title_activity_camera_with_attach_view">CameraWithAttachViewActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_camera_with_attached_view">CameraWithAttachedView</string>
+    <string name="title_activity_google_map">GoogleMapActivity</string>
+    <string name="title_activity_camera_with_google_maps">CameraWithGoogleMaps</string>
+    <string name="title_activity_location_manager">LocationManager</string>
+    <string name="title_activity_google_location_manager">GoogleLocationManager</string>
+    <string name="title_activity_location_world">LocationWorld</string>
+    <string name="title_activity_top_location_world">TopLocationWorld</string>
+    <string name="title_activity_start_google_map">StartGoogleMapActivity</string>
+    <string name="title_activity_select_character">SelectCharacter</string>
+    <string name="title_activity_choose_yourself">ChooseYourself</string>
+
+</resources>

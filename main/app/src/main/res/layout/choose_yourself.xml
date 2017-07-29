@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent" >
+
+    <fragment
+            android:id="@+id/beyondarFragment"
+            android:name="com.beyondar.android.fragment.BeyondarFragmentSupport"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    <Button
+            android:id="@+id/takeSelfie"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|top"
+            android:background="@drawable/take_selfie">
+    </Button>
+
+    <TextView
+            android:id="@+id/labelText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|top"
+            android:background="#000000"
+            android:text="Take Selfie"
+            android:textColor="#FFFFFF" />
+
+
+</FrameLayout>
